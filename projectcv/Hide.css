@@ -1,0 +1,81 @@
+#firstname{
+	
+	visibility:visible;
+	
+}
+#lastname{
+	
+	visibility:hidden;
+}
+#country{
+	
+	visibility:hidden;
+}
+#address{
+	
+	visibility:hidden;
+}
+#phonenumber{
+	
+	visibility:hidden;
+}
+#email{
+	
+	visibility:hidden;
+}
+#carrerinfo{
+	
+	visibility:hidden;
+}
+#professionalStrength{
+	
+	visibility:hidden;
+}
+#techniqualProfeciency{
+	
+	visibility:hidden;
+}
+#educationalSummary{
+	
+	visibility:hidden;
+}
+#educationalSummary1{
+	
+	visibility:hidden;
+}
+
+#personalArchivment{
+	
+	visibility:hidden;
+}
+#extraCuricularActivities{
+	
+	visibility:hidden;
+}
+#interestAndHobbies{
+	
+	visibility:hidden;
+}
+#dob{
+	
+	visibility:hidden;
+}
+#employeeStatus{
+	
+	visibility:hidden;
+}
+#relationshipStatus{
+	
+	visibility:hidden;
+}
+#BasicInformation{
+	
+	visibility:visible;
+}
+#Quality{
+	
+	visibility:hidden;
+}
+#aboutYou{
+	visibility:hidden;
+}
